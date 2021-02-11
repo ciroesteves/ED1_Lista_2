@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1610659188 source:c:\users\ciroe\desktop\ads\2\estrutura de dados 1\lista_2\ex_dez\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libex10.h"
+
+1610663100 c:\users\ciroe\desktop\ads\2\estrutura de dados 1\lista_2\ex_dez\libex10.h
+
+1610663135 source:c:\users\ciroe\desktop\ads\2\estrutura de dados 1\lista_2\ex_dez\libex10.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libex10.h"
+

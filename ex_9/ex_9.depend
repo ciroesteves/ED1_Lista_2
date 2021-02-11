@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1610580674 source:c:\users\ciroe\desktop\ads\2\estrutura de dados 1\lista_2\ex_9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"minhalib.h"
+
+1610580743 c:\users\ciroe\desktop\ads\2\estrutura de dados 1\lista_2\ex_9\minhalib.h
+
+1610580900 source:c:\users\ciroe\desktop\ads\2\estrutura de dados 1\lista_2\ex_9\minhalib.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"minhalib.h"
+
